@@ -7,7 +7,9 @@ Newest verion is now a direct DFavinci Resolve Plugin.
 4. Select your .mark file
 
 
-How I use this is as follows:
+
+--THIS IS THE OLD PYTHON VERSION INFO, I SUGGEST USING THE DAVINCI PLUGIN ABOVE INSTEAD--
+How I use the python version is as follows:
 
 1. Copy the .mp4 and the <filename>.data/<filename>.mark from the sd card into a folder on my mac
 2. run this script in the folder, it will detect all .mark files and convert them to edl
