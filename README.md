@@ -1,4 +1,4 @@
-Newest verion is now a direct DFavinci Resolve Plugin.
+Newest verion is now a direct Davinci Resolve Plugin.
 1. Place the .lua file in the following location:
    Windows: C:\ProgramData\Blackmagic Design\DaVinci Resolve\Fusion\Scripts\Utility\
    Mac: ~/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/Utility/
