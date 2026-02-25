@@ -8,6 +8,9 @@ Newest verion is now a direct DFavinci Resolve Plugin.
 
 
 
+
+
+
 --THIS IS THE OLD PYTHON VERSION INFO, I SUGGEST USING THE DAVINCI PLUGIN ABOVE INSTEAD--
 How I use the python version is as follows:
 
