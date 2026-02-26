@@ -1,6 +1,6 @@
---THIS IS THE OLD PYTHON VERSION INFO, I SUGGEST USING THE DAVINCI PLUGIN ABOVE INSTEAD--
+--THIS IS THE OLD PYTHON VERSION INFO, I SUGGEST USING THE DAVINCI PLUGIN INSTEAD--
 
-https://github.com/thermoscookies/mark2markers
+Davinci Plugin: https://github.com/thermoscookies/mark2markers
 
 How I use the python version is as follows:
 
